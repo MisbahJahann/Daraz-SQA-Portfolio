@@ -62,7 +62,8 @@ Test Case Writing
 
 
 
-- 📧 Email: misbahhjahan@gmail.com
+
+- 📧 Email: misbahjahann@gmail.com
 - 📍 Location: Rawalpindi, Pakistan
 
 
